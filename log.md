@@ -18,3 +18,12 @@
 
 **Links to work**
 1. [Kiki's Travel Service](https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5666013392044032)
+
+### Day 3: December 20, Wednesday
+
+**Today's Progress**: I created a a small online recipe webpage.
+
+**Thought**: It was interesting. I'm getting used to using id tags and linking within the webpage.
+
+**Links to work**
+1. [Darren's Recipe Book](https://www.khanacademy.org/computer-programming/spin-off-of-project-recipe-book/6115886214053888)
