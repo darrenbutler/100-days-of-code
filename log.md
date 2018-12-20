@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 18, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've gone through some excercises on Khan Academy.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It was a great refresher.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Apples and bananas classes](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pc/challenge-apples-and-bananas-classes)
+2. [Seasonal IDs](https://www.khanacademy.org/computer-programming/seasonal-ids/5848235646550016)
+
+### Day 2: December 19, Tuesday
+
+**Today's Progress**: I created a static webpage based on Studio Ghibli Movies, but I lost my work.
+
+**Thought**: I really like studio Ghibli movies. :)
+
+**Links to work**
+1. [Kiki's Travel Service] (https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5666013392044032)
