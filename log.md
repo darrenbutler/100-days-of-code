@@ -17,4 +17,4 @@
 **Thought**: I really like studio Ghibli movies. :)
 
 **Links to work**
-1. [Kiki's Travel Service] (https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5666013392044032)
+1. [Kiki's Travel Service](https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5666013392044032)
