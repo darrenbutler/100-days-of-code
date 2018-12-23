@@ -46,6 +46,6 @@ https://darrenbutler.github.io/
 
 **Links to work**
 1. [Floating Clouds](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pc/challenge-floating-clouds)
-2. [Snake Game] (https://www.youtube.com/watch?v=E_-lMZDi7Uw)
+2. [Snake Game](https://www.youtube.com/watch?v=E_-lMZDi7Uw)
 
 
