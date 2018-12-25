@@ -48,4 +48,13 @@ https://darrenbutler.github.io/
 1. [Floating Clouds](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pc/challenge-floating-clouds)
 2. [Snake Game](https://www.youtube.com/watch?v=E_-lMZDi7Uw)
 
+### Day 6: December 23, 2018
+
+**Today's Progress**:  Added social media buttons to my website. 
+
+**Thought**: I'm  battling between vacation mode and work mode... though programming isn't totally work. I just gotta get some people out of my head. Nothing's gonna stop my hustle.
+
+**Links to work**
+1. [My Site](https://darrenbutler.github.io/)
+
 
