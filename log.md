@@ -57,4 +57,17 @@ https://darrenbutler.github.io/
 **Links to work**
 1. [My Site](https://darrenbutler.github.io/)
 
+### Day 7: December 25, 2018
+
+**Today's Progress**:  Added social media buttons to my website. 
+
+**Thought**:### Day 6: December 23, 2018
+
+**Today's Progress**:  Added social media buttons to my website. 
+
+**Thought**: I finished the HTML portion of the @freeCodeCamp curriculum. Getting back into full work mode now that Christmas is over.
+
+
+
+
 
