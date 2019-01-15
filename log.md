@@ -57,6 +57,7 @@ https://darrenbutler.github.io/
 **Links to work**
 1. [My Site](https://darrenbutler.github.io/)
 
+
 ### Day 7: December 25, 2018
 
 **Today's Progress**:  Added social media buttons to my website. 
@@ -67,6 +68,15 @@ https://darrenbutler.github.io/
 
 **Thought**: I finished the HTML portion of the @freeCodeCamp curriculum. Getting back into full work mode now that Christmas is over.
 
+###STARTING Over
+### Day 1: January 14, 2019
+
+**Today's Progress**: Worked on Applied Visual Design in Free Code Camp.
+
+**Thoughts** I want to do this properly.
+
+**Link(s) to work**
+1. [Applied Visual Design: Use the text-transform Property to Make Text Uppercase](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase)
 
 
 
