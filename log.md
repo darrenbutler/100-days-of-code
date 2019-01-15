@@ -68,7 +68,8 @@ https://darrenbutler.github.io/
 
 **Thought**: I finished the HTML portion of the @freeCodeCamp curriculum. Getting back into full work mode now that Christmas is over.
 
-###STARTING Over
+**STARTING Over**
+
 ### Day 1: January 14, 2019
 
 **Today's Progress**: Worked on Applied Visual Design in Free Code Camp.
