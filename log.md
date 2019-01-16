@@ -79,6 +79,13 @@ https://darrenbutler.github.io/
 **Link(s) to work**
 1. [Applied Visual Design: Use the text-transform Property to Make Text Uppercase](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase)
 
+### Day 1: January 14, 2019
 
+**Today's Progress**: Practiced object-oriented design with Processing.js and made a simple paint app.
+
+**Thoughts** I want to do this properly.
+
+**Link(s) to work**
+1. [Object Oriented Design](https://www.khanacademy.org/computing/computer-programming/programming#object-oriented)
 
 
