@@ -68,9 +68,9 @@ https://darrenbutler.github.io/
 
 **Thought**: I finished the HTML portion of the @freeCodeCamp curriculum. Getting back into full work mode now that Christmas is over.
 
-**STARTING Over**
+### STARTING OVER------------------------------------------------------------------------
 
-### Day 1: January 14, 2019
+### Day 1: January 15, 2019
 
 **Today's Progress**: Worked on Applied Visual Design in Free Code Camp.
 
@@ -79,7 +79,7 @@ https://darrenbutler.github.io/
 **Link(s) to work**
 1. [Applied Visual Design: Use the text-transform Property to Make Text Uppercase](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase)
 
-### Day 1: January 14, 2019
+### Day 2: January 16, 2019
 
 **Today's Progress**: Practiced object-oriented design with Processing.js and made a simple paint app.
 
@@ -87,5 +87,50 @@ https://darrenbutler.github.io/
 
 **Link(s) to work**
 1. [Object Oriented Design](https://www.khanacademy.org/computing/computer-programming/programming#object-oriented)
+
+### Day 3: January 17, 2019
+
+**Today's Progress**: Worked some more on the applied visual design portion of the freeCodeCamp curriculum. 
+
+**Thoughts** I'll try something in C++ tomorrow.
+
+**Link(s) to work**
+1. [Applied Visual Design: Adjust the background-color Property of Text](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-background-color-property-of-text)
+
+### Day 4: January 18, 2019
+
+**Today's Progress**: Made a raindrop animation in Processing.js
+
+**Thoughts** Just keep coding...
+
+**Link(s) to work**
+1. [Make It Rain](https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4542613188542464)
+
+### Day 5: January 19, 2019
+
+**Today's Progress**: I learned DOM modification 😄
+
+**Thoughts** Just keep coding...
+
+**Link(s) to work**
+1. [Challenge: Style guide](https://www.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-modification/pc/challenge-style-guide)
+
+### Day 6: January 20, 2019
+
+**Today's Progress**: I started on a Tic Tac Toe game in HTML, CSS, and Javascript.
+
+**Thoughts** Just keep coding...
+
+**Link(s) to work**
+1. [Tic Tac Toe](https://codepen.io/darrenbutler/pen/BMymMB)
+
+### Day 7: January 21, 2019
+
+**Today's Progress**: Finished the Applied Visual Design section of Responsive Web Design Certification in FreeCodeCamp and starting applied accessibility.
+
+**Thoughts** Just keep coding... yup
+
+**Link(s) to work**
+1. [Applied Accesbility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
 
 
