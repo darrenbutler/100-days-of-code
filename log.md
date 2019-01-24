@@ -133,4 +133,12 @@ https://darrenbutler.github.io/
 **Link(s) to work**
 1. [Applied Accesbility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
 
+### Day 8: January 23, 2019
+
+**Today's Progress**: I worked through about half of the Applied Accessibility portion of FreeCodeCamp currciulum.
+
+**Thoughts** Programming eases my mind.
+
+**Link(s) to work**
+1. [Applied Accessibility: Improve Form Field Accessibility with the label Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
 
