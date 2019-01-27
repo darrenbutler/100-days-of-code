@@ -142,3 +142,21 @@ https://darrenbutler.github.io/
 **Link(s) to work**
 1. [Applied Accessibility: Improve Form Field Accessibility with the label Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
 
+### Day 9: January 25, 2019
+
+**Today's Progress**: Finished applied accessibility!
+
+**Thoughts** I was kind of depressed, but I made it work!
+
+**Link(s) to work**
+1. [Applied Accessibility: Improve Form Field Accessibility with the label Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
+
+### Day 10: January 26, 2019
+
+**Today's Progress**: Decided to shake it up with a throw back to Java.
+
+**Thoughts** Gonna keep going!
+
+**Link(s) to work**
+1. [Dice Game](https://github.com/darrenbutler/Java_Learning_Projects/blob/master/Java%20Learning%20Projects/diceGame.java)
+
