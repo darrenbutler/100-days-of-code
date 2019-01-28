@@ -160,3 +160,14 @@ https://darrenbutler.github.io/
 **Link(s) to work**
 1. [Dice Game](https://github.com/darrenbutler/Java_Learning_Projects/blob/master/Java%20Learning%20Projects/diceGame.java)
 
+### Day 11: January 27, 2019
+
+**Today's Progress**: Started CSS flexbox on Free Code Camp and a C++ program that reads Tic Tac Toe games from a file and determines the winner.
+
+**Thoughts** I need to practice not overthinking things. For the tic tac toe game, I'm close to a solution though it probably isn't the best one, but I should just go with what I got.
+
+**Link(s) to work**
+1. [CSS Flexbox: Use the flex-direction Property to Make a Row](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
+2. [TIc Tac Toe in C++...Will link later]()
+
+
