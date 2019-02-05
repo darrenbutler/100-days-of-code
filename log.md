@@ -168,6 +168,15 @@ https://darrenbutler.github.io/
 
 **Link(s) to work**
 1. [CSS Flexbox: Use the flex-direction Property to Make a Row](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
-2. [TIc Tac Toe in C++...Will link later]()
+2. [TIc Tac Toe in C++](https://github.com/darrenbutler/C-Learning/tree/master/ArrayChallenges/ticTacToe)
 
+### Day 11 - 18: January 27 - February 4, 2019
 
+**Today's Progress**: I went further in learning about CSS Flexbox. I finished the Tic Tac Toe reader in C++, and I made a short C++ program that determines how many people are attending a party (using a vector of a struct).
+
+**Thoughts** I'm going to settle down again so I can complete my Web Design projects.
+
+**Link(s) to work**
+1. [CSS Flexbox: Align Elements Using the align-items Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property/)
+2. [TIc Tac Toe in C++](https://github.com/darrenbutler/C-Learning/tree/master/ArrayChallenges/ticTacToe)
+3. [Party RSVP](https://repl.it/@dbutler242/party)
