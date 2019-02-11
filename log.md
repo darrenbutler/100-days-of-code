@@ -180,3 +180,14 @@ https://darrenbutler.github.io/
 1. [CSS Flexbox: Align Elements Using the align-items Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property/)
 2. [TIc Tac Toe in C++](https://github.com/darrenbutler/C-Learning/tree/master/ArrayChallenges/ticTacToe)
 3. [Party RSVP](https://repl.it/@dbutler242/party)
+
+### Day 19 - 24: February 4 - February 10, 2019
+
+**Today's Progress**: I finished all the preliminary web design challneges! Gonna start on my web design projects! Also, I did the introduction to github and github pages tutorial so I can host my design projects. :smile: 
+
+**Thoughts** It's been a long day. I'm going to keep pushing. I want to make a game! Actually, after the web design, I think I'll do Khan Academy game development.
+
+**Link(s) to work**
+1. [CSS Grid: Create Grids within Grids](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids/)
+2. [Git Hub Pages](https://github.com/darrenbutler/darrenPlusPlus)
+3. [Git Hub Tutorial](https://github.com/darrenbutler/github-slideshow)
