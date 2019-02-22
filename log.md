@@ -191,3 +191,16 @@ https://darrenbutler.github.io/
 1. [CSS Grid: Create Grids within Grids](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids/)
 2. [Git Hub Pages](https://github.com/darrenbutler/darrenPlusPlus)
 3. [Git Hub Tutorial](https://github.com/darrenbutler/github-slideshow)
+
+### Day 24 - 35: February 10 - February 21, 2019
+
+**Today's Progress**: I've spent time on a lot of stuff in C++, HTML, CSS, and some Javascript. I made my tribute page to NSBE History, a C++ program that simulates choosing a dog at an adoption service, and I learned bootstrap!
+
+**Thoughts** I need a better way of planning things. I'm not good with protying software yet so I'll use pencil and paper first. I"m
+going to post more regularly from now on.
+
+**Link(s) to work**
+1. [Tribute Page to NSBE](https://codepen.io/darrenbutler/pen/vbjMJo?editors=1100)
+2. [Blog Using GitHub Pages](https://darrenbutler.github.io/darrenPlusPlus/)
+3. [GitHub Visual Studio Extension](https://github.com/darrenbutler/first-contributions/blob/master/github-windows-vs2017-tutorial.md)
+4. [Bootstrap Lesson on Scrimba](https://github.com/darrenbutler/first-contributions/blob/master/github-windows-vs2017-tutorial.md)
