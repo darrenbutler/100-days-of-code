@@ -192,7 +192,7 @@ https://darrenbutler.github.io/
 2. [Git Hub Pages](https://github.com/darrenbutler/darrenPlusPlus)
 3. [Git Hub Tutorial](https://github.com/darrenbutler/github-slideshow)
 
-### Day 24 - 35: February 10 - February 21, 2019
+### Day 24 - 36: February 10 - February 22, 2019
 
 **Today's Progress**: I've spent time on a lot of stuff in C++, HTML, CSS, and some Javascript. I made my tribute page to NSBE History, a C++ program that simulates choosing a dog at an adoption service, and I learned bootstrap!
 
@@ -204,3 +204,22 @@ going to post more regularly from now on.
 2. [Blog Using GitHub Pages](https://darrenbutler.github.io/darrenPlusPlus/)
 3. [GitHub Visual Studio Extension](https://github.com/darrenbutler/first-contributions/blob/master/github-windows-vs2017-tutorial.md)
 4. [Bootstrap Lesson on Scrimba](https://github.com/darrenbutler/first-contributions/blob/master/github-windows-vs2017-tutorial.md)
+
+### Day 37: February 23 2018
+
+**Today's Progress**: Reviewed how to create forms on Free Code Camp and sketched out my tribute page
+
+**Thoughts** Pencil and Paper worked great for planning!
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/darrenbutler/pen/vbjMJo?editors=1100)
+
+### Day 38: February 24 2018
+
+**Today's Progress**: Scripted the survey form. Gotta make it responsive for mobile now!
+
+**Thoughts** So much better when planned first.
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/darrenbutler/pen/vbjMJo?editors=1100)
+
